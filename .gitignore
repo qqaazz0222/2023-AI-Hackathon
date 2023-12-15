@@ -1,0 +1,7 @@
+/runs/predict9/*.jpg
+/test/images/*.jpg
+/train/images/*.jpg
+/val/images/*.jpg
+.DS_Store
+*.jpg
+runs/.DS_Store
